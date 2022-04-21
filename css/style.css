@@ -6,8 +6,7 @@
 .header {
   min-height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url(IMAGES/field-2032749_1920.jpg);
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(../img/field-2032749_1920.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -296,8 +295,7 @@ h3 {
 .sub-header {
   height: 50vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url(IMAGES/kumpulan-mete1.jpg);
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(../img/kumpulan-mete1.jpg);
   background-position: center;
   background-size: cover;
   text-align: center;
